@@ -1,20 +1,14 @@
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=baby%20sea%20otter%20is%20cute&fontColor=white&color=368AFF&animation=scaleIn)
-
-<br> 
-<div>
 	
 <img src="https://github-readme-stats.vercel.app/api?username=jack0928&show_icons=true&theme=tokyonight">
 
 </div>
 <br>
 
-<br>
+
 <div align="center">
-
-<img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jack0928"/>
-
+	<h3>📊 GitHub Contribution Graph 📊</h3>
+	<img src="./profile-3d-contrib/profile-green-animate.svg">
 </div>
 
 
@@ -47,8 +41,18 @@
 	<p>Native Korean speaker, comfortable with English in daily conversations and basic technical discussions.</p>
 </div>
 
+<br>
+<div align="center">
+
+<img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jack0928"/>
+
+</div>
+
+<br>
 
 <div align="center">
-	<h3>📊 GitHub Contribution Graph 📊</h3>
-	<img src="./profile-3d-contrib/profile-green-animate.svg">
-</div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=baby%20sea%20otter%20is%20cute&fontColor=white&color=368AFF&animation=scaleIn)
+
+<br> 
+<div>

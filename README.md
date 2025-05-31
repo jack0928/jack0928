@@ -6,12 +6,6 @@
 <br>
 
 
-<div align="center">
-	<h3>📊 GitHub Contribution Graph 📊</h3>
-	<img src="./profile-3d-contrib/profile-green-animate.svg">
-</div>
-
-
 <br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>

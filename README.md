@@ -1,4 +1,5 @@
 <br>
+<h1> 안녕하십니까? <h1>
 
 <br>
 <div align="center">
@@ -15,6 +16,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
+<br>
 <!-- Backend Development -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
@@ -41,13 +43,7 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jack0928&show_icons=true&theme=tokyonight">
-
-</div>
-
-<br>
+<br><br>
 
 <div align="center">
 	<h3>🌍 Language Proficiency 🌍</h3>
@@ -59,6 +55,15 @@
 </div>
 
 <br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jack0928&show_icons=true&theme=tokyonight">
+
+</div>
+
+<br>
+
 <div align="center">
 
 <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jack0928"/>

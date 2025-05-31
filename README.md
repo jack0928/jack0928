@@ -1,30 +1,81 @@
+<br>
+
+<br>
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jack0928&show_icons=true&theme=tokyonight">
-
-</div>
-<br>
-
-
-<br>
-<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
 
+<!-- Programming Languages -->
+<p>🧑‍💻 <strong>Programming Languages</strong></p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+
+<!-- Frontend Development -->
+
+<br><br>
+
+<p>🎨 <strong>Frontend Development</strong></p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
+
+<!-- Backend Development -->
+
+<br><br>
+
+<p>🛠️ <strong>Backend Development</strong></p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+
+<!-- AI / ML -->
+
+<br><br>
+
+<p>🧠 <strong>AI / ML (Beginner)</strong></p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-2E76B3?style=flat&logo=Seaborn&logoColor=white" />
+
+<!-- Database -->
+
+<br><br>
+
+<p>💾 <strong>Database</strong></p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 
-</div> 
+<!-- Testing -->
+
+<br><br>
+
+<p>🧪 <strong>Testing</strong></p>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" />
+
+<!-- Tools -->
+
+<br><br>
+
+<p>🧰 <strong>Tools</strong></p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+
+<!-- Currently Studying -->
+
+<br><br>
+
+<p>📖 <strong>Currently Studying</strong></p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=Microsoft%20Azure&logoColor=white" />
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jack0928&show_icons=true&theme=tokyonight">
+
+</div>
 
 <br>
-
 
 <div align="center">
 	<h3>🌍 Language Proficiency 🌍</h3>
@@ -43,4 +94,3 @@
 </div>
 
 <br>
-

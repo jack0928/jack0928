@@ -2,7 +2,7 @@
 
 ## 안녕하십니까? 👋
 
-**AI 제품을 만드는 풀스택 개발자입니다**
+**배고픈 청년입니다**
 
 <br>
 
@@ -54,22 +54,12 @@
 
 ### 📊 Stats
 
-<!-- 1. GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=jack0928&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="49%" />
-<!-- 2. Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jack0928&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="49%" />
 
 <!-- 3. Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jack0928&theme=tokyonight&hide_border=true&background=00000000" width="49%" />
-<!-- 4. Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=jack0928&style=flat&color=blue" />
 
 <br><br>
 
-<!-- 5. Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=jack0928&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" />
-
-<br>
 
 <!-- 6. Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jack0928&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%" />

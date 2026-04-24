@@ -10,7 +10,7 @@
 
 **Backend**
 
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=NestJS&logoColor=white)
+![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=Supabase&logoColor=white)

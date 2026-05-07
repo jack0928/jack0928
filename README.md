@@ -61,7 +61,4 @@
 <br><br>
 
 
-<!-- 6. Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jack0928&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%" />
-
 </div>
